@@ -1,0 +1,4 @@
+#I will update this file with all the things I do as I go on 
+
+www-client/firefox -clang -dbus -pulseaudio -wayland -lto -hardened -screencast 
+app-office/libreoffice -vulkan -clang -coinmp -odk -mariadb
