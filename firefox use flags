@@ -1,0 +1,2 @@
+#for the firefox file to disable stuff i dont need 
+www-client/firefox -gnome -clang -dbus -pulseaudio -wayland -lto -hardened -screencast
