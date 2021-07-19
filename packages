@@ -1,1 +1,3 @@
 equery = app-portage/gentoolkit
+Firefox = www-client/firefox
+
